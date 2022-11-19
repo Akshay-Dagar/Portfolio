@@ -1,0 +1,75 @@
+.app__experience {
+    flex: 1;
+    flex-direction: column;
+}
+
+.app__skills-exp {
+  margin-top: 5rem;
+
+  @media screen and (max-width: 900px) {
+    margin-top: 2rem;
+  }
+}
+
+.app__skills-exp-item {
+  margin: 1rem 0;
+}
+
+.app__skills-exp-works {
+    padding: 2rem;
+
+    @media screen and (max-width: 500px) {
+      padding: 1rem;
+    }
+}
+
+.bigger-text {
+  color: var(--gray-color);
+  margin-top: 1px;
+  text-align: left;
+
+  @media screen and (min-width: 1900px) {
+    font-size: x-large;
+  }
+
+  @media screen and (min-width: 2500px) {
+    font-size: xx-large;
+  }
+
+  @media screen and (min-width: 3000px) {
+    font-size: xxx-large;
+  }
+}
+
+.app__skills-exp-year {
+  padding: 1rem;
+  width: 13%;
+  p {
+    font-weight: 800;
+    color: var(--secondary-color);
+  }
+
+  @media screen and (max-width: 700px) {
+    width: 5%;
+    padding: 0rem;
+  }
+}
+
+.app__experience-img {
+  text-align: center;
+  width: 20%;
+
+  img {
+    max-width: 60%;
+    max-height: 60%;
+
+    @media screen and (min-width: 2000px) {
+      max-width: 40%;
+      max-height: 40%;
+    }
+  }
+
+  @media screen and (max-width: 700px) {
+    display: none;
+  }
+}
