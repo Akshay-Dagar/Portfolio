@@ -9,4 +9,4 @@ https://akshaydagar.netlify.app
 1. Clone this repo
 2. Create a new project on sanity cms and create a .env file like in .env.example
 3. cd frontend -> npm start
-4. cd backend -> npm start
+4. cd backend -> npm start (or sanity start)

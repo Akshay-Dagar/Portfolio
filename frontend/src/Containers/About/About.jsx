@@ -23,8 +23,8 @@ const About = () => {
                 whileHover={{scale: 1.2}}
                 transition={{duration:0.3, type:'tween'}}
             >
-                I am a graduate in Computer Science from the Delhi Technological University, Delhi 
-                and a self-educated programmer. I am a full-time <span>Software Developer at Microsoft</span> skilled
+                I am a graduate of Computer Science from the Delhi Technological University, Delhi 
+                and a self-educated programmer. I am a <span>Software Developer at Microsoft,</span> skilled
                 at backend development and making dynamic, responsive and beautiful User Experiences. 
                 I am an <span>Artificial Intelligence and Machine Learning</span> enthusiast and like to train 
                 models that solve interesting problems using the latest techniques. I am adept at using 
