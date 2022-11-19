@@ -1,7 +1,7 @@
 import React from 'react'
 import { AppWrap, MotionWrap } from '../../Wrapper'
 import { AiFillEye, AiFillGithub} from 'react-icons/ai'
-import { m, motion } from 'framer-motion'
+import { motion } from 'framer-motion'
 import { urlFor, client } from '../../client'
 
 import './Work.scss'

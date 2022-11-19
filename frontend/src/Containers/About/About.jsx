@@ -30,7 +30,7 @@ const About = () => {
                 models that solve interesting problems using the latest techniques. I am adept at using 
                 <span> Python for data analysis</span>. I develop <span>3D games using the Unity engine</span>. I am also
                 a <span>Competitive Programmer</span> and rank in the <span>top 7% on Leetcode</span>. I am a blogger 
-                and frequently publish on Medium and <a href="https://akshaydagar.vercel.app/" target='_blank'>my website</a>.
+                and frequently publish on Medium and <a href="https://akshaydagar.vercel.app/" target='_blank' rel='noreferrer'>my website</a>.
             </motion.div>
             <div className="app__profiles">
                 {abouts.map((about, index) => 

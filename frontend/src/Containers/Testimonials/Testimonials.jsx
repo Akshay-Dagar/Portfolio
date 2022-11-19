@@ -1,7 +1,6 @@
 import React, {useState, useEffect} from 'react'
 import { AppWrap, MotionWrap } from '../../Wrapper'
 import { HiChevronLeft, HiChevronRight } from 'react-icons/hi'
-import { motion } from 'framer-motion'
 import { urlFor, client } from '../../client'
 
 import './Testimonials.scss'
