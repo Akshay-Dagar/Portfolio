@@ -1,6 +1,8 @@
 # This is my personal portfolio application
 ##### Build using React, Framer Motion, and sanity cms as the backend. Deployed using Netlify.
 
+https://akshaydagar.netlify.app
+
 <img src="frontend/public/shot.png" />
 
 ### To run locally:
