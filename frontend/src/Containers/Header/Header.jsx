@@ -36,7 +36,7 @@ const Header = () => {
             <p className='p-text'>Backend Development</p>
           </div>
           <div className='tag-cmp app__flex'>
-            <p className='p-text'>Data Science and Machine Learning</p>
+            <p className='p-text'>Artificial Intelligence & Machine Learning</p>
           </div>
           <div className='tag-cmp app__flex'>
             <p className='p-text'>Game Development</p>

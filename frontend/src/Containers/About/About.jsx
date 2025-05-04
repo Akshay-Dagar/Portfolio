@@ -23,13 +23,11 @@ const About = () => {
                 whileHover={{scale: 1.2}}
                 transition={{duration:0.3, type:'tween'}}
             >
-                I am a graduate of Computer Science from the Delhi Technological University, Delhi 
-                and a self-educated programmer. I am a <span>Software Developer at Microsoft,</span> skilled
-                at backend development and making dynamic, responsive and beautiful User Experiences. 
-                I am an <span>Artificial Intelligence and Machine Learning</span> enthusiast and like to train 
-                models that solve interesting problems using the latest techniques. I am adept at using 
-                <span> Python for data analysis</span>. I develop <span>3D games using the Unity engine</span>. I am also
-                a <span>Competitive Programmer</span> and rank in the <span>top 7% on Leetcode</span>. I am a blogger 
+                I am a graduate of Computer Science from the <span> Delhi Technological University </span>, among the most prestigious
+                Science and Technological institutions in India. I am a self-educated programmer, currently working as a Software Developer at <span> Microsoft</span>, skilled
+                at frontend development and making dynamic, responsive and beautiful User Experiences. I have experience building Microservices and APIs at scale having worked with Azure and AWS cloud platforms.
+                I have the experience of training Machine Learning models to build state of the art Artificial Intelligence features. I am adept at using 
+                <span> Python </span> for data analysis. I am also a Competitive Programmer and rank in the top 4% on Leetcode. I am a blogger 
                 and frequently publish on Medium and <a href="https://akshaydagar.vercel.app/" target='_blank' rel='noreferrer'>my website</a>.
             </motion.div>
             <div className="app__profiles">
